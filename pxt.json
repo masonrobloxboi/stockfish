@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "stockfish": "github:masonrobloxboi/stockfish#e5c4ebc603a3f209373799b750e96dcda4e1b18f"
     },
     "files": [
         "main.blocks",
